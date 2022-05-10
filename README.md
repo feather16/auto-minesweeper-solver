@@ -1,5 +1,5 @@
 # AutoMinesweeperSolver
-*悪用禁止！*
+**悪用禁止！**<br>
 マインスイーパを自動で解きます。
 
 # 使い方
@@ -8,10 +8,10 @@
 3. 盤面全体が画面に映るように調整します。<img src="image/board.png" width="800">
 4. プログラムを実行します。
 
-解くことが出来た場合や手詰まりになった場合は終了します。
+解くことが出来た場合や手詰まりになった場合は終了します。<br>
 Qキーを押すと強制終了します。
 
 # 処理の過程イメージ
-<img src="image/process1.png" width="800">
-<img src="image/process2.png" width="800">
-<img src="image/process3.png" width="800">
+<img src="image/process1.png" width="600">
+<img src="image/process2.png" width="600">
+<img src="image/process3.png" width="300">
