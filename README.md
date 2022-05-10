@@ -1,6 +1,7 @@
 # AutoMinesweeperSolver
 **悪用禁止！**<br>
 マインスイーパを自動で解きます。
+<img src="image/minesweeper_solve.gif" width="300">
 
 # 使い方
 1. [Minesweeper Online](https://minesweeper.online/ja/)を開きます。
