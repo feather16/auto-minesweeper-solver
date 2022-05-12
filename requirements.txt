@@ -1,0 +1,4 @@
+numpy
+pyautogui
+Pillow
+pywin32
