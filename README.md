@@ -1,7 +1,7 @@
 # AutoMinesweeperSolver
 **悪用禁止！**<br>
 マインスイーパを自動で解きます。<br>
-クリックも自動で行います。
+クリックも自動で行います。<br>
 <img src="image/minesweeper_solve.gif" width="700">
 
 # 使い方
