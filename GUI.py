@@ -1,8 +1,6 @@
 import numpy as np
 import pyautogui
 
-from util import Dir8
-
 def draw_rect(arr: np.ndarray, begin_x: int, begin_y: int, end_x: int, end_y: int, rgb: np.ndarray) -> np.ndarray:
     ret = arr.copy()
     for x in range(begin_x, end_x + 1):

@@ -1,10 +1,5 @@
-from numpy.core.numeric import base_repr
-from numpy.lib import utils
-from numpy.lib.function_base import append
 import pyautogui
 import numpy as np
-from PIL import Image
-from pprint import pprint
 
 import util
 import window
