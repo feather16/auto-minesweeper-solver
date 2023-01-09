@@ -1,4 +1,4 @@
-# AutoMinesweeperSolver
+# auto-minesweeper-solver
 **悪用禁止！**<br>
 マインスイーパを自動で解きます。<br>
 盤面の検出からクリックまで全て自動で行います。
