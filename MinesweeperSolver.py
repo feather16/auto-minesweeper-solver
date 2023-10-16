@@ -39,8 +39,8 @@ def no_need_to_open(cell_array: np.ndarray, x: int, y: int) -> bool:
 def calculate(cell_array: np.ndarray):
     # 変数の用意
     #cell_expected_array = np.full(cell_array.shape + (8,), 0, np.int16)
-    openable_array = np.full(cell_array.shape, False, np.bool8)
-    checkable_array = np.full(cell_array.shape, False, np.bool8)
+    openable_array = np.full(cell_array.shape, False, np.bool_)
+    checkable_array = np.full(cell_array.shape, False, np.bool_)
     cell_sets: list[tuple[set[(int, int)], int]] = list()
 
     # どこも開いていない場合
